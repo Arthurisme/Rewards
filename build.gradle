@@ -13,8 +13,10 @@ buildscript {
     }
 }
 
+
 plugins {
     id "io.spring.dependency-management" version "0.5.2.RELEASE"
+    id "fi.evident.beanstalk" version "0.0.6"
 }
 
 version "0.1"
@@ -27,6 +29,12 @@ apply plugin: 'eclipse'
 apply plugin: 'idea'
 apply plugin: "org.grails.grails-web"
 apply plugin: "org.grails.grails-gsp"
+
+
+
+
+
+
 
 ext {
     grailsVersion = project.grailsVersion
@@ -76,4 +84,21 @@ dependencies {
 
 task wrapper(type: Wrapper) {
     gradleVersion = gradleWrapperVersion
+}
+
+
+beanstalk {
+    profile = 'default' // Only required if using .aws/credentials
+    s3Endpoint = "s3-us-west-2.amazonaws.com"
+    beanstalkEndpoint = "elasticbeanstalk.us-west-1.compute.amazonaws.com"
+    deployments {
+        // Example to deploy to the same env
+        beta {
+            war = tasks.war
+            application = 'my-app'
+            environment = 'beta'
+        }
+
+
+    }
 }

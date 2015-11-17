@@ -3,7 +3,7 @@ package rewards
 class InventoryController {
 
     def index() {
-        render "Here is a list of everything."
+        render "Here is a list of everythingsß."
     }
 
     def edit() {
@@ -18,6 +18,13 @@ class InventoryController {
     
     def remove() {
         render "This is the remove testing."
+    }
+
+
+    def list(){
+        def allProducts = Product.last()
+        [allProducts:allProducts]
+
     }
 
 }
