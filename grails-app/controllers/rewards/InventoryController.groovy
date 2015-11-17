@@ -22,7 +22,7 @@ class InventoryController {
 
 
     def list(){
-        def allProducts = Product.last()
+        def allProducts = Product.list()
         [allProducts:allProducts]
 
     }

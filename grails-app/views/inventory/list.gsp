@@ -11,16 +11,22 @@
 
 <html>
 <head>
-    <title>Edit Template</title>
+    <title>List of Products</title>
 </head>
 
 <body>
 
-<form>
-    Product: <input type="text" size=40 name="product" value="${product}" />      <br>
-    SKU    : <input type="text" name="sku" value="${sku}" /> <br>
- line 3    : <input type="text" name="sku" value="3" /> <br>
-</form>
+${allProducts.name} ${allProducts.sku} ${allProducts.price}
+
+<table border="1">
+    <g:each in="${allProducts}" var="thisProduct">
+        <tr>
+            <td>${thisProduct.name}</td>
+            <td>${thisProduct.sku}</td>
+            <td>${thisProduct.price}</td>
+        </tr>
+    </g:each>
+</table>
 
 
 </body>
