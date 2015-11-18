@@ -15,7 +15,7 @@
 </head>
 
 <body>
-
+ss
 <form>
     Product: <input type="text" size=40 name="product" value="${product}" />      <br>
     SKU    : <input type="text" name="sku" value="${sku}" /> <br>
