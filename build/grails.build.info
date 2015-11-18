@@ -1,0 +1,6 @@
+#Sun, 15 Nov 2015 21:32:14 -0500
+
+grails.env=production
+info.app.name=Rewards
+info.app.version=0.1
+info.app.grailsVersion=3.0.9
