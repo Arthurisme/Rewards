@@ -2,127 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7631724-c9df-4dd4-8094-af2106ee0f90" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.mainClass" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/apple-touch-icon-c915103363017d14cea9c2a46ea12166.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/apple-touch-icon-retina-21d524e96ee946f16c9b8fb4ea0c3f6e.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/apple-touch-icon-retina.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/apple-touch-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/application-8514d931d0e5137b3d6dbdcd1b11b015.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/application-8514d931d0e5137b3d6dbdcd1b11b015.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/application-8cb2d19dc9454fefecb2d815f67fce78.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/application-8cb2d19dc9454fefecb2d815f67fce78.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/application.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/application.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/application.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/application.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/application.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/application.unminified.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/errors-081f1b7cc86c9f8824107b7756baa1cd.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/errors-081f1b7cc86c9f8824107b7756baa1cd.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/errors.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/errors.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/favicon-9ef27019cc7a636e29ecc851528f716e.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/favicon-9ef27019cc7a636e29ecc851528f716e.ico.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/favicon.ico.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/grails_logo-eabe4af98753b0163266d7e68bbd32e3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/grails_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/jquery-2.1.3-8c9c0e26152ea554b3ed6c4390439134.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/jquery-2.1.3-8c9c0e26152ea554b3ed6c4390439134.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/jquery-2.1.3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/jquery-2.1.3.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/jquery-2.1.3.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/jquery-2.1.3.unminified.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/main-a956764078083b6bf61d4d6798e155f4.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/main-a956764078083b6bf61d4d6798e155f4.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/main.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/manifest.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/mobile-61b8607741e97aa19553f856bc5da637.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/mobile-61b8607741e97aa19553f856bc5da637.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/mobile.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/mobile.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/skin/database_add-82a75143b4660a3f02f9c058f0a3ae93.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/skin/database_add.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/skin/database_delete-3862d8032e726f3a67a0dfd555ff9711.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/skin/database_delete.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/skin/database_edit-868a0bb564edc2c710f9fb55c827a4b8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/skin/database_edit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/skin/database_save-8303213a3c95654e14d5afd4e72ed4c2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/skin/database_save.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/skin/database_table-c413540d7e3545ace2c445fe686e915f.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/skin/database_table.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/skin/exclamation-e4dd51f46566ed3ceacdc900bf2fdf01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/skin/exclamation.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/skin/house-99bea32e1990e011e870f6c562e87a6a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/skin/house.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/skin/information-3750c701d2ec35a45d289b9b9c1a0667.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/skin/information.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/skin/shadow-91463fad8ce43e365a0af6e8f415fdf6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/skin/shadow.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/skin/sorted_asc-df23e44c4c4999383e95e9c8bf5da156.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/skin/sorted_asc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/skin/sorted_desc-b85986b88116c4b0ef7571a1c4f3cfa3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/skin/sorted_desc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/spinner-c7b3cbb3ec8249a7121b722cdd76b870.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assetCompile/assets/spinner.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/artifacts/Rewards/exploded/Rewards-0.1.war/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/test/rewards/CustomerSpec.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/distributions/Rewards-0.1.tar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/distributions/Rewards-0.1.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/grails.build.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp/views.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewards_inventoryedit_gsp$_run_closure1$_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewards_inventoryedit_gsp$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewards_inventoryedit_gsp$_run_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewards_inventoryedit_gsp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewards_inventoryedit_gsp_html.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewards_inventoryedit_gsp_linenumbers.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewards_inventorylist_gsp$_run_closure1$_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewards_inventorylist_gsp$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewards_inventorylist_gsp$_run_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewards_inventorylist_gsp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewards_inventorylist_gsp_html.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewards_inventorylist_gsp_linenumbers.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewards_layoutsmain_gsp$_run_closure1$_closure3$_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewards_layoutsmain_gsp$_run_closure1$_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewards_layoutsmain_gsp$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewards_layoutsmain_gsp$_run_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewards_layoutsmain_gsp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewards_layoutsmain_gsp_html.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewards_layoutsmain_gsp_linenumbers.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewardserror_gsp$_run_closure1$_closure3$_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewardserror_gsp$_run_closure1$_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewardserror_gsp$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewardserror_gsp$_run_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewardserror_gsp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewardserror_gsp_html.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewardserror_gsp_linenumbers.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewardsindex_gsp$_run_closure1$_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewardsindex_gsp$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewardsindex_gsp$_run_closure2$_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewardsindex_gsp$_run_closure2$_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewardsindex_gsp$_run_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewardsindex_gsp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewardsindex_gsp_html.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_Rewardsindex_gsp_linenumbers.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_RewardsnotFound_gsp$_run_closure1$_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_RewardsnotFound_gsp$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_RewardsnotFound_gsp$_run_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_RewardsnotFound_gsp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_RewardsnotFound_gsp_html.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsp-classes/main/gsp_RewardsnotFound_gsp_linenumbers.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsptmp/gsp_Rewards_inventoryedit_gsp.groovy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsptmp/gsp_Rewards_inventorylist_gsp.groovy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsptmp/gsp_Rewards_layoutsmain_gsp.groovy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsptmp/gsp_Rewardserror_gsp.groovy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsptmp/gsp_Rewardsindex_gsp.groovy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsptmp/gsp_RewardsnotFound_gsp.groovy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/scripts/Rewards" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/scripts/Rewards.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/groovy/rewards/CustomerSpec.groovy" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.asscache" afterPath="$PROJECT_DIR$/.asscache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/BootStrap$_closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/BootStrap$_closure1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/BootStrap$_closure2.class" afterPath="$PROJECT_DIR$/build/classes/main/BootStrap$_closure2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/Award$__clinit__closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/Award$__clinit__closure1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/Award.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/Award.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/Customer$__clinit__closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/Customer$__clinit__closure1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/Customer.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/Customer.class" />
@@ -135,10 +18,12 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/test/rewards/OnlineOrderSpec.class" afterPath="$PROJECT_DIR$/build/classes/test/rewards/OnlineOrderSpec.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/test/rewards/OrderItemSpec.class" afterPath="$PROJECT_DIR$/build/classes/test/rewards/OrderItemSpec.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/test/rewards/ProductSpec.class" afterPath="$PROJECT_DIR$/build/classes/test/rewards/ProductSpec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/main/application.yml" afterPath="$PROJECT_DIR$/build/resources/main/application.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/application.yml" afterPath="$PROJECT_DIR$/grails-app/conf/application.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/rewards/Award.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/rewards/Award.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/rewards/Customer.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/rewards/Customer.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/init/BootStrap.groovy" afterPath="$PROJECT_DIR$/grails-app/init/BootStrap.groovy" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -176,26 +61,69 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="InventoryController.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/controllers/rewards/InventoryController.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Customer.groovy" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Customer.groovy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/domain/rewards/Customer.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44820717">
-              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            <state vertical-scroll-proportion="-9.310345">
+              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
               <folding />
             </state>
           </provider>
           <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Award.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/domain/rewards/Award.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.2413793">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/grails-app/conf/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4708098">
+              <caret line="90" column="28" selection-start-line="90" selection-start-column="28" selection-end-line="90" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logback.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/conf/logback.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Application.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/init/rewards/Application.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BootStrap.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/init/BootStrap.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="81" selection-start-line="4" selection-start-column="81" selection-end-line="4" selection-end-column="81" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -213,7 +141,7 @@
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/rewards/CustomerController.groovy">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -986,7 +914,6 @@
         <option value="$PROJECT_DIR$/grails-app/controllers/rewards/InventoryController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/inventory/list.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/inventory/edit.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/domain/rewards/Award.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/rewards/Order.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/rewards/OrderItem.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/rewards/Product.groovy" />
@@ -999,6 +926,9 @@
         <option value="$PROJECT_DIR$/grails-app/controllers/rewards/CustomerController.java" />
         <option value="$PROJECT_DIR$/grails-app/controllers/rewards/CustomerController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/rewards/Customer.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/domain/rewards/Award.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/conf/application.yml" />
+        <option value="$PROJECT_DIR$/grails-app/init/BootStrap.groovy" />
       </list>
     </option>
   </component>
@@ -1176,8 +1106,22 @@
               <option name="myItemId" value="grails-app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
+              <option name="myItemId" value="Rewards" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Rewards" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="init" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1194,22 +1138,8 @@
               <option name="myItemId" value="grails-app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Rewards" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Rewards" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="domain" />
+              <option name="myItemId" value="init" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1231,29 +1161,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Rewards" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Rewards" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rewards" />
+              <option name="myItemId" value="conf" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1797,7 +1705,7 @@
       <workItem from="1447938668982" duration="2669000" />
       <workItem from="1447978885912" duration="8837000" />
       <workItem from="1448117390508" duration="1666000" />
-      <workItem from="1448206534610" duration="192000" />
+      <workItem from="1448206534610" duration="6675000" />
     </task>
     <task id="LOCAL-00001" summary="Domain">
       <created>1447725869772</created>
@@ -1817,11 +1725,17 @@
       <option name="project" value="LOCAL" />
       <updated>1447817703234</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="constrains">
+      <created>1448206900573</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1448206900573</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62445000" />
+    <option name="totallyTimeSpent" value="68928000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="192" y="23" width="1599" height="951" extended-state="0" />
@@ -1877,7 +1791,8 @@
     <MESSAGE value="Domain" />
     <MESSAGE value="Domain to view" />
     <MESSAGE value="Domains" />
-    <option name="LAST_COMMIT_MESSAGE" value="Domains" />
+    <MESSAGE value="constrains" />
+    <option name="LAST_COMMIT_MESSAGE" value="constrains" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1888,22 +1803,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/rewards/InventoryController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/rewards/Customer.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/rewards/AwardController.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2111,24 +2010,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/logback.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/inventory/edit.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.625">
           <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="95" column="10" selection-start-line="95" selection-start-column="4" selection-end-line="95" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -2204,45 +2089,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/init/rewards/Application.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/rewards/InventoryController.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/rewards/Customer.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44820717">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/rewards/AwardController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/rewards/CustomerController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -2259,6 +2109,76 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/rewards/AwardController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/rewards/CustomerController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/rewards/Customer.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.310345">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/rewards/Award.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.2413793">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/logback.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/init/rewards/Application.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/init/BootStrap.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="81" selection-start-line="4" selection-start-column="81" selection-end-line="4" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4708098">
+          <caret line="90" column="28" selection-start-line="90" selection-start-column="28" selection-end-line="90" selection-end-column="28" />
           <folding />
         </state>
       </provider>
