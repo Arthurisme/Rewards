@@ -7,6 +7,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <asset:stylesheet src="application.css"/>
         <asset:javascript src="application.js"/>
+        <asset:link rel="shortcut icon" href="greybox-icon.gif" type="image/x-icon"/>
 
         <g:layoutHead/>
     </head>
