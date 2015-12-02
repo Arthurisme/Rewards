@@ -1,0 +1,2 @@
+*= require bootstrap-all
+*= require font-awesome-all

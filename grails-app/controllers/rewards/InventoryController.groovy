@@ -3,7 +3,7 @@ package rewards
 class InventoryController {
 
     def index() {
-        render "Here is a list of everythingsß."
+        render "Here is a list of everythings."
     }
 
     def edit() {
