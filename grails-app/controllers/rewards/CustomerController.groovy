@@ -14,18 +14,30 @@ class CustomerController {
 
     }
 
-       def index() {
+       def index(Integer max) {
 
-           params.max = 10
-           def customerInstance = Customer.list(params)
 
-           [customerInstanceList: customerInstance, customerInstanceCount: Customer.count()]
+
+           params.max = Math.min(max ?: 10, 100)
+           respond Customer.list(params), model:[customerCount: Customer.count()]
 
        }
 
     def creat() {
-        params.max = 10
-        [customerInstance: new Customer() ]
+
+
+        respond new Customer(params)
     }
+
+
+
+
+
+    def show(Customer customer) {
+
+        respond customer
+  }
+
+
 
 }
