@@ -1,7 +1,9 @@
+
 <!doctype html>
 <html>
 
 <head>
+	%{--<meta name="layout" content="main">--}%
 	<title>Kiosk</title>
 	%{--<link rel="stylesheet" href="${resource(dir: 'css', file: 'bootstrap.min.css')}" type="text/css">--}%
 	%{--<script src="js/respond.js"></script>--}%
