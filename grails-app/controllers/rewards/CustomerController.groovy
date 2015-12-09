@@ -1,6 +1,8 @@
 package rewards
 
 class CustomerController {
+    def calculationsService
+
     static scaffold  =  Customer
     def checkin() {}
     def lookup() {
@@ -35,7 +37,14 @@ class CustomerController {
 
     def show(Customer customer) {
 
-        respond customer
+        def customerInstance = customer
+
+        customerInstance = calculationsService.getTotalPoints(customerInstance)
+//        respond customer
+        respond customerInstance
+//        [customerInstance: customerInstance]
+
+
   }
 
 

@@ -29,4 +29,13 @@ class CalculationsService {
         }
 //return welcomeMessage
     }
+
+    def getTotalPoints(customerInstance){
+        def totalAwards = 0
+         customerInstance.award.each{
+             totalAwards = totalAwards + it.points
+         }
+        customerInstance.totalPoints = totalAwards
+        return customerInstance
+    }
 }

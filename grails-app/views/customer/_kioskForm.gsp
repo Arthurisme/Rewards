@@ -77,7 +77,7 @@
 
             <div class="row">
                 <div class="col-sm-4">
-                    <input class="btn btn-danger btn-lg btn-block" type="button" name="pad" value="DEL"/>
+                    <g:link class="btn btn-danger btn-lg btn-block"  action="checkin"> DEL</g:link>
                 </div>
 
                 <div class="col-sm-4">
@@ -85,9 +85,11 @@
                 </div>
 
                 <div class="col-sm-4">
-                    <input class="btn btn-success btn-lg btn-block" type="button" name="pad" value="GO"/>
+                    <g:submitButton class="btn btn-success btn-lg btn-block"   name="pad" value="GO"/>
                 </div>
             </div>
+
+            <g:link controller="fish" action="index">Fish List</g:link>
 
         </div>
     </div>
