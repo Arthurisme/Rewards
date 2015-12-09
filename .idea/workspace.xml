@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db9293fb-6c5f-43a9-bebe-93833e52f061" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.3/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.3/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.3/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.3/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.3/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.3/taskArtifacts/outputFileStates.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.3/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/Award.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/Award.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/AwardController.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/AwardController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/CalculationsService.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/CalculationsService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/Customer.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/Customer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/CustomerController.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/CustomerController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/Dog.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/Dog.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/DogController.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/DogController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/FeedBackController.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/FeedBackController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/Fish.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/Fish.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/FishController.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/FishController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/InventoryController.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/InventoryController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/OnlineOrder.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/OnlineOrder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/OnlineOrderController.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/OnlineOrderController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/OrderItem.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/OrderItem.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/OrderItemController.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/OrderItemController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/Product.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/Product.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/ProductController.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/ProductController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/WhiteboardController.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/WhiteboardController.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/rewards/CustomerController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/rewards/CustomerController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/services/rewards/CalculationsService.groovy" afterPath="$PROJECT_DIR$/grails-app/services/rewards/CalculationsService.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/customer/_kioskForm.gsp" afterPath="$PROJECT_DIR$/grails-app/views/customer/_kioskForm.gsp" />
     </list>
     <ignored path="Rewards.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1793,7 +1767,7 @@
       <workItem from="1449244682384" duration="2691000" />
       <workItem from="1449492557100" duration="385000" />
       <workItem from="1449585095722" duration="1875000" />
-      <workItem from="1449666660441" duration="2514000" />
+      <workItem from="1449666660441" duration="2677000" />
     </task>
     <task id="LOCAL-00001" summary="bootstrap framwork ok">
       <created>1448978719257</created>
@@ -1811,7 +1785,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30357000" />
+    <option name="totallyTimeSpent" value="30520000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="192" y="23" width="1599" height="951" extended-state="0" />
