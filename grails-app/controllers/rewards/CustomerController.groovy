@@ -5,5 +5,5 @@ class CustomerController {
 //    def index() {}
     def checkin() {}
 
-    
+
 }
