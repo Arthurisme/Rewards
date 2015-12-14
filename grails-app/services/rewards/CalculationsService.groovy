@@ -38,4 +38,14 @@ class CalculationsService {
         customerInstance.totalPoints = totalAwards
         return customerInstance
     }
+
+    def processCheckin(lookupInstance){
+        def customerInstance = lookupInstance
+        def welcomeMessage = "Welcome bace Haha."
+
+        return [customerInstance, welcomeMessage]
+    }
+
+
+
 }

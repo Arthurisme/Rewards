@@ -8,7 +8,7 @@
 
     <div class="row">
         <div class="col-sm-5 col-sm-offset-1">
-            <h4>Welcome back Mike.</h4>
+            <h4>${welcomeMessage} </h4>
 
             <p>You have 3 point.</p>
         </div>
