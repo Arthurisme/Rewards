@@ -40,8 +40,55 @@ class CalculationsService {
     }
 
     def processCheckin(lookupInstance){
-        def customerInstance = lookupInstance
-        def welcomeMessage = "Welcome bace Haha."
+
+        def welcomeMessage = ""
+
+        //Lookup customer by phone number
+        def customerInstance = Customer.findByPhone(lookupInstance.phone)
+        //Set up new customer
+        if(customerInstance == null)
+        {
+            customerInstance = lookupInstance
+            customerInstance.firstName = "Customer"
+        }
+        //Calculate current award points
+        def totalAwards = 0
+        customerInstance.award.each{
+            totalAwards = totalAwards + it.points
+        }
+        customerInstance.totalPoints = totalAwards
+//        return customerInstance
+        //Create welcome message
+        switch (totalAwards){
+
+            case 5:
+                welcomeMessage = "Welcome back $customerInstance.firstName. This drink is on us"
+                break
+
+            case 4:
+                welcomeMessage = "Welcome back $customerInstance.firstName. This drink is free"
+                break
+            case 2..3:
+                welcomeMessage = "Welcome back $customerInstance.firstName. You now have ${totalAwards+1} points"
+                break
+            default:
+                welcomeMessage = "Welcome back $customerInstance.firstName. Thank you for registering"
+                break
+
+        }
+        //Add new award
+        if(totalAwards < 5){
+            customerInstance.addToAward(new Award(awardDate: new Date(), type: "Purchase", points: 1))
+        }else{
+            customerInstance.addToAward(new Award(awardDate: new Date(), type: "Reward", points: -5))
+
+        }
+        //Save customer
+        customerInstance.save()
+
+
+//        def customerInstance = lookupInstance
+//        def welcomeMessage = "Welcome bace Haha."
 
         return [customerInstance, welcomeMessage]
     }

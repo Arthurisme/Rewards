@@ -10,7 +10,7 @@
 </head>
 
 <body>
-	<g:form url="[resource:customerInstance, action:'customerLookup']" >
+	<g:form url="[resource:customerInstanceAsAllElmentsFromForm, action:'customerLookup']" >
 			<g:render template="kioskForm"/>
 	</g:form>
 	

@@ -22,20 +22,7 @@ class CustomerController {
 
         render(view:"checkin" , model:[customerInstance: customerInstance, welcomeMessage:welcomeMessage])
 
-
-        //Query customer by phone #
-        //if no result
-        //   create a new customer
-        //   add award record
-        //   save customer
-        //   send customer to kiosk
-        // if customer found,
-        //   calculate total points
-        //   create welcome page
-        //   add award record
-        //   save customer
-        //    Send welcometo kiosk
-        //save customer
+ 
 
 
 

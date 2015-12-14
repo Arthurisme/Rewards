@@ -15,7 +15,7 @@
 
         <div class="col-sm-6">
 
-            <g:textField name="phone" class="form-control" placeholder="Enter your phone number"></g:textField>
+            <g:textField name="phone" class="form-control" placeholder="Enter your phone number" value="${customerInstance?.phone}"></g:textField>
 
             <div class="row">
                 <h3></h3>
