@@ -1,6 +1,6 @@
-package Rewards
+package rewards
 
-import rewards.Fish
+//import rewards.Fish
 
 import static org.springframework.http.HttpStatus.*
 import grails.transaction.Transactional

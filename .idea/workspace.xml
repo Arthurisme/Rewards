@@ -2,13 +2,320 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db9293fb-6c5f-43a9-bebe-93833e52f061" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/artifacts/Rewards/exploded/Rewards-0.1.war/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/rewards/CalculationsService$__tt__getTotalPoints_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/test/rewards/AwardControllerSpec.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/test/rewards/AwardSpec.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/test/rewards/CalculationsServiceSpec.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/test/rewards/CustomerControllerSpec.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/test/rewards/FeedBackControllerSpec.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/test/rewards/InventoryControllerSpec.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/test/rewards/OnlineOrderControllerSpec.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/test/rewards/OnlineOrderSpec.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/test/rewards/OrderItemControllerSpec.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/test/rewards/OrderItemSpec.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/test/rewards/ProductControllerSpec.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/test/rewards/ProductSpec.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/test/rewards/WhiteboardControllerSpec.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/dist/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/dist/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/dist/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/js/affix.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/js/alert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/js/button.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/js/carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/js/collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/js/dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/js/modal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/js/popover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/js/scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/js/tab.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/js/tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/js/transition.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/badges.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/bootstrap.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/breadcrumbs.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/button-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/carousel.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/close.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/code.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/component-animations.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/dropdowns.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/forms.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/glyphicons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/grid.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/input-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/jumbotron.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/labels.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/list-group.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/media.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/background-variant.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/border-radius.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/center-block.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/clearfix.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/forms.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/gradients.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/grid-framework.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/grid.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/hide-text.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/image.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/labels.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/list-group.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/nav-divider.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/nav-vertical-align.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/opacity.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/panels.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/progress-bar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/reset-filter.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/reset-text.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/resize.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/responsive-visibility.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/size.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/tab-focus.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/table-row.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/text-emphasis.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/text-overflow.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/mixins/vendor-prefixes.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/modals.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/navbar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/navs.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/normalize.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/pager.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/panels.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/popovers.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/print.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/progress-bars.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/responsive-embed.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/responsive-utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/scaffolding.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/tables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/theme.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/thumbnails.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/tooltip.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/type.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/bootstrap-v3.3.5.zip_6gheb2u5n2klxwz5j04101k2d/bootstrap-3.3.5/less/wells.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/fontAwesome-v4.3.0.zip_5texs5n6ijs1vhcj7vdxyvt62/Font-Awesome-4.3.0/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/fontAwesome-v4.3.0.zip_5texs5n6ijs1vhcj7vdxyvt62/Font-Awesome-4.3.0/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/fontAwesome-v4.3.0.zip_5texs5n6ijs1vhcj7vdxyvt62/Font-Awesome-4.3.0/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/fontAwesome-v4.3.0.zip_5texs5n6ijs1vhcj7vdxyvt62/Font-Awesome-4.3.0/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/fontAwesome-v4.3.0.zip_5texs5n6ijs1vhcj7vdxyvt62/Font-Awesome-4.3.0/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/fontAwesome-v4.3.0.zip_5texs5n6ijs1vhcj7vdxyvt62/Font-Awesome-4.3.0/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/fontAwesome-v4.3.0.zip_5texs5n6ijs1vhcj7vdxyvt62/Font-Awesome-4.3.0/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/fontAwesome-v4.3.0.zip_5texs5n6ijs1vhcj7vdxyvt62/Font-Awesome-4.3.0/less/animated.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/fontAwesome-v4.3.0.zip_5texs5n6ijs1vhcj7vdxyvt62/Font-Awesome-4.3.0/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/fontAwesome-v4.3.0.zip_5texs5n6ijs1vhcj7vdxyvt62/Font-Awesome-4.3.0/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/fontAwesome-v4.3.0.zip_5texs5n6ijs1vhcj7vdxyvt62/Font-Awesome-4.3.0/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/fontAwesome-v4.3.0.zip_5texs5n6ijs1vhcj7vdxyvt62/Font-Awesome-4.3.0/less/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/fontAwesome-v4.3.0.zip_5texs5n6ijs1vhcj7vdxyvt62/Font-Awesome-4.3.0/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/fontAwesome-v4.3.0.zip_5texs5n6ijs1vhcj7vdxyvt62/Font-Awesome-4.3.0/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/fontAwesome-v4.3.0.zip_5texs5n6ijs1vhcj7vdxyvt62/Font-Awesome-4.3.0/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/fontAwesome-v4.3.0.zip_5texs5n6ijs1vhcj7vdxyvt62/Font-Awesome-4.3.0/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/fontAwesome-v4.3.0.zip_5texs5n6ijs1vhcj7vdxyvt62/Font-Awesome-4.3.0/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/fontAwesome-v4.3.0.zip_5texs5n6ijs1vhcj7vdxyvt62/Font-Awesome-4.3.0/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/fontAwesome-v4.3.0.zip_5texs5n6ijs1vhcj7vdxyvt62/Font-Awesome-4.3.0/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/expandedArchives/fontAwesome-v4.3.0.zip_5texs5n6ijs1vhcj7vdxyvt62/Font-Awesome-4.3.0/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string1074092959371721.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string1124829563875061296.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string1150777635070357366.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string1158724982377296508.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string1204004035197119522.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string1317945706983867971.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string1383298127600901198.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string1399375783119333925.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string1429609837603232079.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string1481068722173726416.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string1556298050842248841.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string1643386945981008770.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string165713697366097322.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string1664232342320669245.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string1685221136503864699.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string1777294455048224849.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string1974286483738425032.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string2043849099542406164.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string2064336246824145833.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string2193676510899473647.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string2369150100428450345.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string2390537939841537106.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string249627277693515888.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string2529326806621703741.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string2727944470365401557.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string2761374233481428083.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string2774885387933411642.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string2800530607236986743.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string2805181347081919415.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string2855640664724776509.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string2908547241556849107.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string2943527324911211145.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string2964969560769328119.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string3089917140544023918.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string3120973886136701723.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string3169942384494974455.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string3187738208438719936.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string3213765940696814760.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string3232725196266513540.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string3255602037120688770.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string3328603867925906646.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string3358539935130157075.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string345169629747930052.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string3504856816324756074.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string3624577932007282144.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string3642282998743911988.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string3702345791423006281.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string3712066622508998050.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string3741001725520032649.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string3743149452078800990.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string3747021572399685989.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string3788782827105163237.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string3796140231670624534.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string3958956115086405106.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string4096157875524056819.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string4118416866400790833.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string4140599583029197225.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string4187242249897599008.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string4285497362568215585.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string4366769666993832733.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string4382465902825598218.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string454965171571350837.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string4552127560800047506.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string4566725890769902635.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string4762305961080007876.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string4789166826499596216.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string4837842567199629296.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string4973552190528840059.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string5006360433497269557.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string5136266732562997065.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string5192554097775975523.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string5193316391900115833.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string5332992967620900958.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string5350622069426603078.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string5381329224790316310.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string544265383216185247.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string5566545162944541405.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string5628245890725650083.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string5664237733324930709.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string5697017037456419746.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string582816641264608304.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string5931759146178382750.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string5983871033539851320.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string6058909792239549812.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string6238489921574001504.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string6262440808101651595.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string6344675784136343687.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string640523800786155859.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string6473813811660361283.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string6485627547214795246.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string6544048411941261016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string6563665990456453918.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string6597073362234329737.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string6609946580961674975.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string6693034056222836341.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string6707376336115132761.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string6712905122513274681.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string6904295939027176403.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string7107707607940410026.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string7160060480904060384.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string7166143453619433763.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string7397598109037251316.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string7436427646107961851.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string7507759056095107416.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string7590319258021680453.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string7606154767688217512.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string7651489784416793830.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string7777724578571149647.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string7847835273128090365.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string8007425935095984547.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string8022010700067204622.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string8074095966560584234.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string827619199145491991.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string8342147992787599066.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string8358636360288988665.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string839159237163253958.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string8429060551293610007.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string8429421611121064122.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string8545405304285089373.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string860874449566467431.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string8718900915683829087.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string8810332226171243039.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string8823119294058083341.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string8831980487370490997.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string8859183773200467955.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string8941322889435765356.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string8984258314530550622.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string9035630408153630017.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string9109184662947975807.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/resource/string916958378553592045.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.3/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.3/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.3/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.3/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.3/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.3/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.3/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/Award.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/Award.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/AwardController.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/AwardController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/CalculationsService$__tt__getTotalPoints_closure4.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/CalculationsService$__tt__getTotalPoints_closure4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/CalculationsService$__tt__processCheckin_closure5.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/CalculationsService$__tt__processCheckin_closure5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/CalculationsService$_getTotalPoints_closure2.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/CalculationsService$_getTotalPoints_closure2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/CalculationsService$_processCheckin_closure3.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/CalculationsService$_processCheckin_closure3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/CalculationsService$_welcome_closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/CalculationsService$_welcome_closure1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/CalculationsService.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/CalculationsService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/Customer.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/Customer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/CustomerController.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/CustomerController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/Dog.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/Dog.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/DogController.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/DogController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/FeedBackController.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/FeedBackController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/Fish$__clinit__closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/Fish$__clinit__closure1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/Fish.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/Fish.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/FishController$__tt__delete_closure14$_closure21.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/FishController$__tt__delete_closure14$_closure21.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/FishController$__tt__delete_closure14$_closure22.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/FishController$__tt__delete_closure14$_closure22.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/FishController$__tt__delete_closure14.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/FishController$__tt__delete_closure14.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/FishController$__tt__save_closure12$_closure17.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/FishController$__tt__save_closure12$_closure17.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/FishController$__tt__save_closure12$_closure18.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/FishController$__tt__save_closure12$_closure18.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/FishController$__tt__save_closure12.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/FishController$__tt__save_closure12.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/FishController$__tt__update_closure13$_closure19.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/FishController$__tt__update_closure13$_closure19.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/FishController$__tt__update_closure13$_closure20.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/FishController$__tt__update_closure13$_closure20.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/FishController$__tt__update_closure13.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/FishController$__tt__update_closure13.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/FishController$_create_closure1.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/FishController$_create_closure1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/FishController$_delete_closure11.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/FishController$_delete_closure11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/FishController$_delete_closure4.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/FishController$_delete_closure4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/FishController$_edit_closure9.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/FishController$_edit_closure9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/FishController$_index_closure6.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/FishController$_index_closure6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/FishController$_notFound_closure5$_closure15.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/FishController$_notFound_closure5$_closure15.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/FishController$_notFound_closure5$_closure16.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/FishController$_notFound_closure5$_closure16.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/FishController$_notFound_closure5.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/FishController$_notFound_closure5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/FishController$_save_closure2.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/FishController$_save_closure2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/FishController$_save_closure8.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/FishController$_save_closure8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/FishController$_show_closure7.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/FishController$_show_closure7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/FishController$_update_closure10.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/FishController$_update_closure10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/FishController$_update_closure3.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/FishController$_update_closure3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/FishController.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/FishController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/InventoryController.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/InventoryController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/OnlineOrder.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/OnlineOrder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/OnlineOrderController.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/OnlineOrderController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/OrderItem.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/OrderItem.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/OrderItemController.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/OrderItemController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/Product.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/Product.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/ProductController.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/ProductController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/rewards/WhiteboardController.class" afterPath="$PROJECT_DIR$/build/classes/main/rewards/WhiteboardController.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/stacktrace.log" afterPath="$PROJECT_DIR$/build/stacktrace.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/rewards/CustomerController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/rewards/CustomerController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/services/rewards/CalculationsService.groovy" afterPath="$PROJECT_DIR$/grails-app/services/rewards/CalculationsService.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/customer/_kioskForm.gsp" afterPath="$PROJECT_DIR$/grails-app/views/customer/_kioskForm.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/customer/checkin.gsp" afterPath="$PROJECT_DIR$/grails-app/views/customer/checkin.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/rewards/DogController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/rewards/DogController.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/rewards/FishController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/rewards/FishController.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/rewards/Fish.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/rewards/Fish.groovy" />
     </list>
     <ignored path="Rewards.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,51 +352,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CustomerController.groovy" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/grails-app/controllers/rewards/CustomerController.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.42154565">
-              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="DogController.groovy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/rewards/DogController.groovy">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FeedBackController.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/controllers/rewards/FeedBackController.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
               <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_kioskForm.gsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/views/customer/_kioskForm.gsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.125">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lookup.gsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/views/customer/lookup.gsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="checkin.gsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/views/customer/checkin.gsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.25">
-              <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -114,8 +391,60 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.310345">
+              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Award.groovy" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/grails-app/domain/rewards/Award.groovy">
+          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.054545455">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OnlineOrder.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/domain/rewards/OnlineOrder.groovy">
+          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-1.0344827">
               <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderItem.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/domain/rewards/OrderItem.groovy">
+          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.0344827">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Product.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/domain/rewards/Product.groovy">
+          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.137931">
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -125,27 +454,22 @@
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/rewards/FishController.groovy">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="28" />
-              <folding />
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+              <folding>
+                <element signature="e#40#91#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalculationsService.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/services/rewards/CalculationsService.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="71" column="113" selection-start-line="71" selection-start-column="113" selection-end-line="71" selection-end-column="113" />
-              <folding />
-            </state>
+      <file leaf-file-name="Customer.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/domain/rewards/Customer.groovy">
+          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+            <state />
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/conf/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="121" column="12" selection-start-line="121" selection-start-column="12" selection-end-line="121" selection-end-column="12" />
+            <state vertical-scroll-proportion="-7.7586207">
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -1032,15 +1356,16 @@
         <option value="$PROJECT_DIR$/grails-app/controllers/rewards/InventoryController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/rewards/WhiteboardController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/init/BootStrap.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/rewards/Fish.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/rewards/Dog.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/controllers/rewards/FishController.groovy" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/grails-app/conf/logback.groovy" />
         <option value="$PROJECT_DIR$/grails-app/services/rewards/CalculationsService.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/customer/_kioskForm.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/customer/checkin.gsp" />
         <option value="$PROJECT_DIR$/grails-app/controllers/rewards/CustomerController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/rewards/FishController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/rewards/DogController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/domain/rewards/Fish.groovy" />
       </list>
     </option>
   </component>
@@ -1717,7 +2042,7 @@
       <workItem from="1449492557100" duration="385000" />
       <workItem from="1449585095722" duration="1875000" />
       <workItem from="1449666660441" duration="2677000" />
-      <workItem from="1450100774543" duration="7389000" />
+      <workItem from="1450100774543" duration="9585000" />
     </task>
     <task id="LOCAL-00001" summary="bootstrap framwork ok">
       <created>1448978719257</created>
@@ -1735,11 +2060,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37909000" />
+    <option name="totallyTimeSpent" value="40105000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="225" y="23" width="1599" height="951" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1753,7 +2078,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4277588" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24953096" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24953096" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1876,7 +2201,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#40#91#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2054,28 +2381,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/rewards/Customer.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/rewards/Award.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/rewards/WhiteboardController.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2097,7 +2402,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="81" selection-start-line="26" selection-start-column="81" selection-end-line="26" selection-end-column="81" />
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#0#32#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2142,6 +2447,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/rewards/AwardController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/rewards/CustomerController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/rewards/FeedBackController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/rewards/DogController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/rewards/FishController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="e#40#91#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/rewards/Fish.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.310345">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/rewards/Customer.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.7586207">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/rewards/Dog.groovy">
       <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
         <state />
@@ -2153,7 +2522,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/rewards/Fish.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/rewards/OnlineOrder.groovy">
       <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
         <state />
       </provider>
@@ -2164,26 +2533,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/rewards/DogController.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/rewards/OrderItem.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="-1.0344827">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/rewards/FishController.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/rewards/Product.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="28" />
+        <state vertical-scroll-proportion="-4.137931">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/rewards/CustomerController.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/rewards/Award.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42154565">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.054545455">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>

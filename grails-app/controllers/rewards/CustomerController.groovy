@@ -22,7 +22,7 @@ class CustomerController {
 
         render(view:"checkin" , model:[customerInstance: customerInstance, welcomeMessage:welcomeMessage])
 
- 
+
 
 
 

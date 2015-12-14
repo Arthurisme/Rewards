@@ -1,6 +1,9 @@
-package Rewards
+package rewards
+
 
 class DogController {
 
-    def index() { }
+    static scaffold  =  Dog
+
+//    def index() { }
 }
